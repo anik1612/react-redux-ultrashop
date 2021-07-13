@@ -4,12 +4,13 @@ This is a beginner level project for who learn and start with react redux.
 
 ### Tools & Technology:
 
-``` bash
+```bash
 * React JS
 * Redux (State Management)
-* [Fake Store Api](#https://fakestoreapi.com/)
-* [React Component Loader](#https://github.com/danilowoz/react-content-loader)
 ```
+
+[Fake Store Api](https://fakestoreapi.com/)
+[React Component Loader](https://github.com/danilowoz/react-content-loader)
 
 # Project UI
 
@@ -22,14 +23,22 @@ This is a beginner level project for who learn and start with react redux.
 <img src='./src/images/screenshots/details-page.png' />
 
 ## For Observation this project
-``` bash
-* [clone this github repo](#https://github.com/anik1612/react-redux-ultrashop)
-  git clone https://github.com/anik1612/react-redux-ultrashop 
+
+[clone this github repo](https://github.com/anik1612/react-redux-ultrashop)
+
+```sh
+* git clone https://github.com/anik1612/react-redux-ultrashop.git
 
 * npm install or yarn install
 
 * npm start or yarn start
 
-* go to http://localhost:3000/ 
+* go to http://localhost:3000/
 
 ```
+
+[Contact With Me](#www.facebook.com/aniksarker1612)
+[Email Me](mailto:aniksarker1612@gmail.com)
+[Portfolio Link](https://anik-sarker.web.app/)
+
+Thank You ! 😊
