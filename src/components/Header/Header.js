@@ -1,13 +1,16 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
 	return (
 		<div className='sticky-top'>
 			<nav className='navbar navbar-expand-lg navbar-dark bg-dark p-3 '>
 				<div className='container'>
-					<h3 className='text-white border border-success rounded p-3'>
-						Ultra Shop 🛍🛍🛍
-					</h3>
+					<Link to='/' style={{ textDecoration: 'none' }}>
+						<h3 className='text-white border border-success rounded p-3'>
+							Ultra Shop 🛍🛍🛍
+						</h3>
+					</Link>
 					<button
 						className='navbar-toggler'
 						type='button'
