@@ -1,4 +1,4 @@
-### Ultra Shop
+# Ultra Shop
 
 This is a beginner level project for who learn and start with react redux.
 
@@ -11,7 +11,7 @@ This is a beginner level project for who learn and start with react redux.
 * [React Component Loader](https://github.com/danilowoz/react-content-loader)
 ```
 
-### Project UI
+# Project UI
 
 ## Home Page
 
