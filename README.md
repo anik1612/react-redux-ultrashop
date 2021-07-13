@@ -9,7 +9,7 @@ This is a beginner level project for who learn and start with react redux.
 * Redux (State Management)
 ```
 
-[Fake Store Api](https://fakestoreapi.com/)
+[Fake Store Api](https://fakestoreapi.com/) <br>
 [React Component Loader](https://github.com/danilowoz/react-content-loader)
 
 # Project UI
@@ -37,8 +37,8 @@ This is a beginner level project for who learn and start with react redux.
 
 ```
 
-[Contact With Me](#www.facebook.com/aniksarker1612)
-[Email Me](mailto:aniksarker1612@gmail.com)
-[Portfolio Link](https://anik-sarker.web.app/)
+[Contact With Me](#www.facebook.com/aniksarker1612) <br>
+[Email Me](mailto:aniksarker1612@gmail.com) <br>
+[Portfolio Link](https://anik-sarker.web.app/) <br>
 
 Thank You ! 😊
